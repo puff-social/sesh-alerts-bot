@@ -1,0 +1,24 @@
+{
+  "name": "sesh-alerts-bot",
+  "author": "Dustin Rouillard <dustin@puff.social>",
+  "main": "dist/index.js",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/",
+    "dev": "ts-node-dev --exit-child --transpile-only -r dotenv/config src"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.4",
+    "dotenv": "^16.0.1",
+    "ts-node": "^10.7.0",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "envsafe": "^2.0.3",
+    "ioredis": "^5.3.2"
+  }
+}
