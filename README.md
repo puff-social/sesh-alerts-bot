@@ -34,6 +34,7 @@ Configuration example: \
 
 Video of what this does:
 
-![demo video](https://files.dstn.to/b4a21ca6392752ff.gif)
+https://github.com/puff-social/sesh-alerts-bot/assets/31819732/73028985-5c33-4203-8637-a84a5c037bba
+
 
 In the demo you can see that it won't let you run it in a private channel, and requires you to be in the voice channel, something not shown here is that you also have to have the configured sesh alerts role to run the command.
