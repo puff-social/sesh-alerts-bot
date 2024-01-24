@@ -6,7 +6,8 @@ Configurable to different roles and channels, with global cooldowns and per-user
 
 ---
 
-Configuration example, this will go into `src/config.ts` before building the image or running the dev build.
+Configuration example: \
+*this will go into `src/config.ts` before building the image or running the dev build*
 
 ```typescript
 '824008760279957555': {
